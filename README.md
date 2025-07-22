@@ -1,1 +1,1 @@
-This guide provides step-by-step instructions for installing and configuring the Webex.
+Download Webex for Windows – a secure and powerful collaboration tool for video meetings, messaging, and screen sharing.
